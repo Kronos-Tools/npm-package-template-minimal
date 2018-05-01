@@ -172,6 +172,7 @@
       "Kronos-Integration/kronos-adapter-inbound-file",
       "Kronos-Integration/kronos-adapter-inbound-http-graphql-admin",
       "Kronos-Integration/kronos-adapter-outbound-file",
+      "Kronos-Integration/kronos-adapter-outbound-http",
       "Kronos-Integration/kronos-interceptor-object-data-processor-row",
       "Kronos-Integration/kronos-step-file",
       "Kronos-Integration/kronos-step-gzip"
