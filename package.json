@@ -170,7 +170,8 @@
     ],
     "usedBy": [
       "Kronos-Integration/kronos-interceptor-object-data-processor-row",
-      "Kronos-Integration/kronos-step-file"
+      "Kronos-Integration/kronos-step-file",
+      "Kronos-Integration/kronos-step-gzip"
     ]
   }
 }
