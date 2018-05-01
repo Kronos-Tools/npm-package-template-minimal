@@ -169,6 +169,7 @@
       }
     ],
     "usedBy": [
+      "Kronos-Integration/archive-arangodb",
       "Kronos-Integration/kronos-adapter-inbound-file",
       "Kronos-Integration/kronos-adapter-inbound-http-graphql-admin",
       "Kronos-Integration/kronos-adapter-outbound-file",
