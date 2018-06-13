@@ -23,7 +23,6 @@
   "engines": {
     "node": ">=8.11"
   },
-  "config": "--delete--",
   "xo": {
     "space": true
   },
