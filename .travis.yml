@@ -1,8 +1,7 @@
 language: node_js
 node_js:
   - -10
-  - 10.13
-sudo: --delete--
+  - 10.14.2
 branches:
   only:
     - master
