@@ -10,10 +10,10 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.0",
-    "semantic-release": "^15.13.19"
+    "semantic-release": "^15.13.19",
   },
   "scripts": {
-    "semantic-release": "semantic-release"
+    "semantic-release": "^15.13.19",
   },
   "contributors": [
     {
