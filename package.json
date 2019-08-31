@@ -10,7 +10,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.0",
-    "semantic-release": "^15.13.23"
+    "semantic-release": "^15.13.24"
   },
   "scripts": {
     "semantic-release": "semantic-release"
