@@ -2,12 +2,11 @@ language: node_js
 node_js:
   - -10
   - -12
-  - 12.10.0
+  - 12.11.1
 branches:
   only:
     - master
     - /^greenkeeper/.*$/
-cache: npm
 notifications:
   email:
     - torstenlink@gmx.de
@@ -26,3 +25,5 @@ after_script:
   - npm run docs
 after_success:
   - npm run semantic-release
+
+cache: -npm
